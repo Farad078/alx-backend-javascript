@@ -1,0 +1,19 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farad078/alx-backend-javascript.git"
+  },
+  "author": "Okorie Chinedu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farad078/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Farad078/alx-backend-javascript#readme"
+}
