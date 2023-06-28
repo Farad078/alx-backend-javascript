@@ -1,6 +1,6 @@
 function handleResponseFromAPI(promise) {
   promise
-    .then((response) => {
+    .then(() => {
       console.log("Got a response from the API");
       return {
         status: 200,
@@ -13,5 +13,5 @@ function handleResponseFromAPI(promise) {
     });
 }
 
-module.exports = handleResponseFromAPI;
+export default handleResponseFromAPI;
 
